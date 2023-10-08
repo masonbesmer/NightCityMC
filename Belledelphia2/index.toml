@@ -4,3 +4,38 @@ hash-format = "sha256"
 file = "mods/applied-energistics-2.pw.toml"
 hash = "35f9be7c0c59e40644b314d2cb1046a9b1f25cd5907fe524eb3fd37f28440b4a"
 metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "16073d6c76de63323db311e1383ec78f16dd65e6c8d52c321dd6ffb6a0d4e3be"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "6d3fb07eb86187760f6acc608e779009dd69f3b5eefe0b54db40810c831b66b7"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "ab133d7408f9b8c9fcb511218f7f8666c8529c4a103000d02ed382f96ce445b5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "bb994a6b04e23a392e088c2a1b1ca6b724b6d6787581d8a436291e6bec9084ce"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "7cb8fd3d40eddee4b2d5c44ccb089739e8a6ef9becef5f498a05a7ac8bba76f3"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "cb98ebd4885e5fad08cd17d42d3fb9106f6766384b1676e6badb28db5e1223d6"
+metafile = true
