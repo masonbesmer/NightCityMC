@@ -1,0 +1,13 @@
+name = "Belledelphia 2"
+author = "Mason Besmer"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24318b9b354c7eb3a5c9ce78288ed5861875db15c093a298d0a7eb95c0044116"
+
+[versions]
+forge = "47.2.1"
+minecraft = "1.20.1"

@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "35f9be7c0c59e40644b314d2cb1046a9b1f25cd5907fe524eb3fd37f28440b4a"
+metafile = true
