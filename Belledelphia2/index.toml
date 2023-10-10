@@ -26,13 +26,53 @@ hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "05bb3690e007eed5e9084fd308b78bc6186d619c29c431b206a02b29ed407bd1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "d7fc95d1ae40eb7ecef1c3ef7bd1d667550f33ad9f55d9e1543b7b1994727636"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "2fb1643d7675045a5e659c747f4cc4c26803a2b0cad8eed32e56699a9248845e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "251cbe6234871f2e245acf376f2e6a37e282dda3cd18f67bc18456cf67c0881e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "b1b6d734bb14b1d9d897edb22fab983dc0006f55d19ae218fbe872bc6c9a1cc9"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "bb994a6b04e23a392e088c2a1b1ca6b724b6d6787581d8a436291e6bec9084ce"
 metafile = true
 
 [[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "7eba2a4194baaa285446eae38fd9f0f303e90c5cdd7c884ac60aa0b51594d308"
+metafile = true
+
+[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "7cb8fd3d40eddee4b2d5c44ccb089739e8a6ef9becef5f498a05a7ac8bba76f3"
+metafile = true
+
+[[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
 metafile = true
 
 [[files]]
