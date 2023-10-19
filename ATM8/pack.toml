@@ -1,0 +1,12 @@
+name = "All the Mods 8"
+version = "1.0.28"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "90fd75acdb35eaff94d9c0d54e83be3d32a72627be46e089eb402a261610132f"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
