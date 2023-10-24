@@ -1,0 +1,13 @@
+name = "nomi-ceu - 1.6.1a"
+author = "__tracer"
+version = "1.6.1a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17ac480ea667a652fab2f6ff2db4501354480d1e5942c2720e827fd7ff53bbdb"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

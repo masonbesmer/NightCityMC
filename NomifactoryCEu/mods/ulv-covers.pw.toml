@@ -1,0 +1,13 @@
+name = "ULV Covers"
+filename = "ULVCovers-1.12.2-2.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eca0b85f946166d1a96b1eb02cc61a45cb332fd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4542025
+project-id = 635555

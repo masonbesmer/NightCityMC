@@ -1,0 +1,13 @@
+name = "Gregtech Drawers"
+filename = "gregtech-drawers-1.12.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af92ae6e404484f632b0e50ca3190ed4858d5279"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4661741
+project-id = 845779
