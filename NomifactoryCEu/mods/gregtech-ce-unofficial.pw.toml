@@ -1,6 +1,7 @@
 name = "GregTech CE Unofficial"
 filename = "gregtech-2.6.2-beta.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

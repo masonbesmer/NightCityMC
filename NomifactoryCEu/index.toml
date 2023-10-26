@@ -2379,7 +2379,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
-hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
+hash = "961ab1bb6ade4924fb7e177324dc92d1555c54cdc6e9ff54436e6ca194a1f9ce"
 metafile = true
 
 [[files]]
@@ -2484,7 +2484,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech-ce-unofficial.pw.toml"
-hash = "e555b49c0e214914665a88063e0d366f1043585c0299ce1b2480e54a3f023dc3"
+hash = "157666f6513436a5bf1d9a17affad250f509f234c462fde922ec4f0eb5da724a"
 metafile = true
 
 [[files]]
@@ -2659,7 +2659,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-mod.pw.toml"
-hash = "a083e49b63c511e1629866c1a95883352790cff996b4dc31ac1405574839ee31"
+hash = "a9bbd6fbd797ec8a5192d1bf706b14c3607244ccb69b732c9cd14e358095ac7e"
 metafile = true
 
 [[files]]

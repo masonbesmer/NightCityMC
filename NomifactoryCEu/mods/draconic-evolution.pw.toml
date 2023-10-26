@@ -1,6 +1,7 @@
 name = "Draconic Evolution"
 filename = "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
