@@ -2298,6 +2298,11 @@ hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
+metafile = true
+
+[[files]]
 file = "mods/craftable-elytra.pw.toml"
 hash = "7b52af98b3e059a0c09302650e6523e634e969e9095eb69323e9e476966365f3"
 metafile = true
@@ -2673,6 +2678,11 @@ hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
+metafile = true
+
+[[files]]
 file = "mods/p455w0rds-library.pw.toml"
 hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
 metafile = true
@@ -2690,6 +2700,11 @@ metafile = true
 [[files]]
 file = "mods/packmode.pw.toml"
 hash = "a297098771ad7a26f0ac43df5f97bdfc595e3b02e21cd4b23b018aab22f54db8"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
