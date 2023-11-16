@@ -3,6 +3,6 @@ filename = "gregtech-2.6.2-beta-patched.jar"
 side = "both"
 
 [download]
-url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=gregtech-2.6.2-beta-patched.jar&downloadStartSecret=y2lny4fhz4"
+url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=gregtech-2.6.2-beta-patched.jar"
 hash-format = "sha1"
 hash = "43a018dad9dfc358ed613acbe4be5916dd43ee3a"

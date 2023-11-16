@@ -3,6 +3,6 @@ filename = "NuclearCraft-2.18y-1.12.2-patched.jar"
 side = "both"
 
 [download]
-url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=NuclearCraft-2.18y-1.12.2-patched.jar&downloadStartSecret=vxdj689kwyb"
+url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=NuclearCraft-2.18y-1.12.2-patched.jar"
 hash-format = "sha1"
 hash = "24c6f97a467810980e7d8474b0897f51aa3cd1c6"
