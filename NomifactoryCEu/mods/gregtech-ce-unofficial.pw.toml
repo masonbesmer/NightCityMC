@@ -1,14 +1,8 @@
 name = "GregTech CE Unofficial"
-filename = "gregtech-2.6.2-beta.jar"
+filename = "gregtech-2.6.2-beta-patched.jar"
 side = "both"
-pin = true
 
 [download]
+url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=gregtech-2.6.2-beta-patched.jar&downloadStartSecret=y2lny4fhz4"
 hash-format = "sha1"
-hash = "bcc4432d57388a17efcd3d68b67f5993555ec827"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4527757
-project-id = 557242
+hash = "43a018dad9dfc358ed613acbe4be5916dd43ee3a"

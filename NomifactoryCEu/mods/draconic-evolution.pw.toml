@@ -1,14 +1,8 @@
 name = "Draconic Evolution"
-filename = "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
+filename = "Draconic-Evolution-1.12.2-2.3.28.354-universal-patched.jar"
 side = "both"
-pin = true
 
 [download]
+url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=Draconic-Evolution-1.12.2-2.3.28.354-universal-patched.jar"
 hash-format = "sha1"
-hash = "aa952832b369ff12a26ef608ee7a001b687ca226"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3431261
-project-id = 223565
+hash = "78ba52c796282b5fd564858edfad803721ebbd17"
