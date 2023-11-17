@@ -2893,6 +2893,11 @@ hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
 
 [[files]]
+file = "resourcepacks/zedtech.pw.toml"
+hash = "4c18e276d0fea07b9eee5ad4284bbcb3de084b69a647def742f63d3420c22ab2"
+metafile = true
+
+[[files]]
 file = "resources/appliedenergistics2/lang/en_us.lang"
 hash = "27dd4f5eb7c0b44f9174c5f52c5611ae2675e819574e68d44a4f6a7f525e6db3"
 

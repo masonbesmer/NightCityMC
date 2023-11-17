@@ -1,0 +1,13 @@
+name = "ZedTech-2 GTCEu"
+filename = "Zedtech-2.5.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d1c03476b925ea3efd81d2b26d3827318785e53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4434176
+project-id = 423145
