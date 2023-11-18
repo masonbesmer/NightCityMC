@@ -2548,6 +2548,11 @@ hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
 metafile = true
 
 [[files]]
+file = "mods/kiros-basic-blocks.pw.toml"
+hash = "c1108afc58caaa7c4e47cc15e1e9d8fe78d0f41c956c42419bddcbdd8c9007c7"
+metafile = true
+
+[[files]]
 file = "mods/lazy-ae2.pw.toml"
 hash = "9be747f0d18ed0676d229d70a36d4d44dec9e17adc94a1ed877c958ee4ce6c81"
 metafile = true

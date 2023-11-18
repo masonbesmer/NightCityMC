@@ -1,0 +1,13 @@
+name = "Kiro's Basic Blocks"
+filename = "kirosblocks-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb8591a3d45fb42bfb30fe8be41821c3cc0662e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4788013
+project-id = 429642
