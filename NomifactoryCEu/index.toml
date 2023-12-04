@@ -2643,6 +2643,16 @@ hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
+file = "mods/multi-hotbar-core.pw.toml"
+hash = "7b072755a606aa257291259138f5fa2d06d4476318d00bd58f56a51550b8dd34"
+metafile = true
+
+[[files]]
+file = "mods/multi-hotbar.pw.toml"
+hash = "e4caef15c12ceaed48269b21b7d4b60c018226b850e23f9959226de9989d14ac"
+metafile = true
+
+[[files]]
 file = "mods/multiblocktweaker.pw.toml"
 hash = "f7632f33248b6ffdf44cf0c7d8e5061c60ce025a57900d994fdbdea1aabc5865"
 metafile = true
