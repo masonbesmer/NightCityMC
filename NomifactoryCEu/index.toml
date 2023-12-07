@@ -2608,6 +2608,11 @@ hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
 metafile = true
 
 [[files]]
+file = "mods/more-sound-config.pw.toml"
+hash = "9bb1497b6831973cfbf5123828a346858e75705853451262a36edd44ce7b3789"
+metafile = true
+
+[[files]]
 file = "mods/morefurnaces-nomifactory-edition.pw.toml"
 hash = "3c06bb98aa3b829ed838611f6625e894c2b4a0d4575bd8842996330b56ed0b56"
 metafile = true
