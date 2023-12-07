@@ -8,8 +8,8 @@ hash = "5a17517653deef1faf9d47005aad288b7c61ecaa"
 mode = "metadata:curseforge"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 descrption = "gives you the option to change the sound device after game load"
 
 [update]
