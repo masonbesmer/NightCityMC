@@ -1,0 +1,13 @@
+name = "SteamPunk"
+author = "SHXRKIE"
+version = "v21.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6af19bc840ed79d4a37b929e019e890213a398b17a985c6d4693b3eb2ce6193c"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks Icon's"
+filename = "Irons Spellbooks Icon.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e4474d28ec0f2c49b2be031a51c7cba7801639c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4634573
+project-id = 886657

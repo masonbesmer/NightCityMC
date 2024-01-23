@@ -1,0 +1,13 @@
+name = "Faithless: UI's"
+filename = "Faithless UI's [Cosmetic Armor] [1.0].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c23d405a0f59a96ca17fd8711aa92e5c3ac2ae2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4442871
+project-id = 577514

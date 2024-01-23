@@ -1,0 +1,13 @@
+name = "The Salt"
+filename = "salt-1.19.2-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62f9d72ae4a3ebe644c380ce0e0438fe29fd698c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4988711
+project-id = 832006

@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm"
+filename = "L_Enders_Cataclysm-1.89 -1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8f191fa8e98b65d21dbd881df55f5eeac11a0d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5039717
+project-id = 551586

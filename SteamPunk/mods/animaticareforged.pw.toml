@@ -1,0 +1,13 @@
+name = "AnimaticaReforged"
+filename = "AnimaticaReforged-1.19.2-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c07bb2c0e3b7f8a23a6e7b8387dec631a2fd565c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4969050
+project-id = 903292

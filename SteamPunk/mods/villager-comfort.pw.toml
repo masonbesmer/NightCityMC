@@ -1,0 +1,13 @@
+name = "Villager Comfort"
+filename = "Villager Comfort-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a09eafd8abff6bf859396d777492388ebde4763d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062997
+project-id = 690339

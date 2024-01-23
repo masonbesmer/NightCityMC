@@ -1,0 +1,13 @@
+name = "Tetra_GUI"
+filename = "§b§lTetra_GUI_v.0.7.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "057deb8092cd87279cb062ef02708576847ed3bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3933852
+project-id = 475884

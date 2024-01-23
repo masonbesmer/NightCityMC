@@ -1,0 +1,13 @@
+name = "Bocchium"
+filename = "bocchium-1.19.2-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce2f2df18b717aba8335ae9133892ff1d6119d80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5004008
+project-id = 905450

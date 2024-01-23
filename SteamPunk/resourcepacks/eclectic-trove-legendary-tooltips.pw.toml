@@ -1,0 +1,13 @@
+name = "Eclectic Trove (Legendary Tooltips)"
+filename = "EclecticTrove-1.19.2-1.3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e960b4770f08761c294dd67530f94232acadc68e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4934033
+project-id = 538850

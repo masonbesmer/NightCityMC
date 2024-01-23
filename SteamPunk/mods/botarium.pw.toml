@@ -1,0 +1,13 @@
+name = "Botarium"
+filename = "botarium-forge-1.19.2-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0448df82b52791808d6696c5a6c123b33c934634"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046708
+project-id = 704113

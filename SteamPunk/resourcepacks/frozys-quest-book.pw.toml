@@ -1,0 +1,13 @@
+name = "Frozy's Quest Book"
+filename = "Frozy's Quest Book.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e7230e3478b5c1ddb1617cb55b00c6aa711f2fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4637931
+project-id = 882798

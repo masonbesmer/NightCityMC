@@ -1,0 +1,13 @@
+name = "Villager Workers: Traveling Merchant Update!"
+filename = "workers-1.19.2-1.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3faa27edcdf1a05fed2508ea40be9c71fd44f9aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4934190
+project-id = 567450

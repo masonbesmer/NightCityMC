@@ -1,0 +1,13 @@
+name = "Haywire Robots, Bandits and Guns- A Scorched Bronze Addon"
+filename = "scguns-1.10-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98d0b5c777d182a87b2c30e8cf55f806c5235b4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4382945
+project-id = 779843

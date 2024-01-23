@@ -1,0 +1,13 @@
+name = "Quality's Delight"
+filename = "QualitysDelight-1.19.2-1.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ff1f075cb82285513598664b6ddd7100a709aea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4867011
+project-id = 893870

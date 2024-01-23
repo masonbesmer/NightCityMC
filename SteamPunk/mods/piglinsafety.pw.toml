@@ -1,0 +1,13 @@
+name = "PiglinSafety"
+filename = "piglinsafety-1.19.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f89e8747c93f64228beba13d6f41c448e98ea26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4976214
+project-id = 870831

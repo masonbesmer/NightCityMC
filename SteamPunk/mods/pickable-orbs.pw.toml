@@ -1,0 +1,13 @@
+name = "Pickable Health Orbs"
+filename = "pickableorbs-1.19.2-3.0-rc1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ac0859b4a2f4a56446370051734180ae4bd9b49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4776948
+project-id = 554992

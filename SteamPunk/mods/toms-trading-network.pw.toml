@@ -1,0 +1,13 @@
+name = "Tom's Trading Network"
+filename = "toms_trading_network-1.19-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67c39e4b5afd2980f4b82fd2e01ba3b10642a74c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4550703
+project-id = 854496

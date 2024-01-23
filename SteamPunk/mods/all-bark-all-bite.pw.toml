@@ -1,0 +1,13 @@
+name = "All Bark, All Bite"
+filename = "all_bark_all_bite-1.19.2-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a42c6037db71bdc4352010a4b09e4abcde5ec89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4453424
+project-id = 833755

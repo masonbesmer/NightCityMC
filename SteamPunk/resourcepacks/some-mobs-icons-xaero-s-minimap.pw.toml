@@ -1,0 +1,13 @@
+name = "Some Mobs Icons (Icons in Minimap)"
+filename = "Some Mobs Icons 1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "385b0bcb17f3237962d25a3fbb46e7c8c9f0c1d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397818
+project-id = 818040

@@ -1,0 +1,13 @@
+name = "Enigmatic 3D"
+filename = "Enigmatic+3D+(V1.5.1).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76212994c12d2c3197f3859cd21d4288d28e92cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620292
+project-id = 880039

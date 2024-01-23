@@ -1,0 +1,13 @@
+name = "(Brewin' and Chewin') 3D Tankards"
+filename = "3D Tankards.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12a4caf98cb503c919f7eea0f6590f3080d0a575"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4783739
+project-id = 845559

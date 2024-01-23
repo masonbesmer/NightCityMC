@@ -1,0 +1,13 @@
+name = "Quality Crops"
+filename = "QualityCrops-1.19.2-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a4e3215084e57d8e3c070649eb9c4ae9dad54bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4876867
+project-id = 892509
