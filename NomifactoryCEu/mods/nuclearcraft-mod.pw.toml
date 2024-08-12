@@ -1,8 +1,13 @@
 name = "NuclearCraft"
-filename = "NuclearCraft-2.18y-1.12.2-patched.jar"
+filename = "NuclearCraft-2.18y-1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://nxc.latte.cx/s/pWkFGfXiwTdGXrB/download?path=%2F&files=NuclearCraft-2.18y-1.12.2-patched.jar"
 hash-format = "sha1"
-hash = "24c6f97a467810980e7d8474b0897f51aa3cd1c6"
+hash = "0adb73ab9ad85959767efcac005b5ff6e8c4bb05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3074246
+project-id = 226254
