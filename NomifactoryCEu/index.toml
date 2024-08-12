@@ -78,7 +78,7 @@ hash = "0a024fd38379b51e758dfc54bd051ca42f673a75c224584dde3e412fb899e8e5"
 
 [[files]]
 file = "config-overrides/expert/betterquesting/DefaultQuests.json"
-hash = "5ab9eb127dd78d5a206a04c69576d3d90b62207a95e83e4a65489827d171dbb6"
+hash = "56e720479264450f7e235d956e99c6446e6484ceb99b5bcc430e8b354dabb290"
 
 [[files]]
 file = "config-overrides/expert/cofh/thermalexpansion/common.cfg"
@@ -106,15 +106,15 @@ hash = "3a8fca2beb0858dfd086946226721fb77ff73ab701f66f487efd7d2cda17e38d"
 
 [[files]]
 file = "config-overrides/expert/randompatches.cfg"
-hash = "2f9e5a1c9d892011d3862ca5d3684d26fa4f1d7b0e0a4618e0d942fc33c2f77c"
+hash = "3cbcd736970efd9f71362c2ca9fe732b3e39ef8d770308b540e2fe87827e4615"
 
 [[files]]
 file = "config-overrides/expert/server.properties"
-hash = "ac13f31051f891e05d63b78dfe2cfc39236eaf0c33a87550b760b14bd37d4e28"
+hash = "312d8b99667c7e97e6fe49da34691ca5f370e49396423efa78099e39141a61f6"
 
 [[files]]
 file = "config-overrides/normal/betterquesting/DefaultQuests.json"
-hash = "ccfc1438f18b5be6c67ebd4217a956812f37f045d479f29c34dd889468bdd688"
+hash = "b17f7d9912f22538388953a0b7ef35b3ec4c7476071edca781c9e1e1812279df"
 
 [[files]]
 file = "config-overrides/normal/cofh/thermalexpansion/common.cfg"
@@ -142,11 +142,11 @@ hash = "8e6d25201b25e6d4b458a2a14d984328055f03d6634556fa5461f9436309d5af"
 
 [[files]]
 file = "config-overrides/normal/randompatches.cfg"
-hash = "474cce1a7583e7f91f8135d7d71fa7dd51ec1f512459ae7069aa217c27be397c"
+hash = "70754930b14e44a1203e3d24b953a2c2d3d5e03c0d6d30d59b814550066b0014"
 
 [[files]]
 file = "config-overrides/normal/server.properties"
-hash = "a3cc72a520f799900727a202c5ec03c3c34950f492b5afcc7976660449aad772"
+hash = "0b5e2c555bff044d18b9a0e567824247fc840f52ff5936e5c744fa625c320a6f"
 
 [[files]]
 file = "config/AE2Stuff/readme.txt"
@@ -186,7 +186,7 @@ hash = "1d4ca0c65769cac04b746710780409edb41c184bb75891f3db72c882970e0ee0"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "28cb18586ca726512d1cbe2d8b22f8626e8ab6a615a8cc4959768f288ee87cd7"
+hash = "4ccc75fa29376f1383db52757e6a342f9880c0a59474669272d1400b63bfbd8f"
 
 [[files]]
 file = "config/DimensionalEdibles.cfg"
@@ -418,7 +418,7 @@ hash = "c4bd72c6fa5e15adc5749dfe416d218b28e16303193d37965673206c5922cdb6"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests.json"
-hash = "4f45971ce3af25a34872277328f8f287e3666617e74209f23426779bdc39b331"
+hash = "b17f7d9912f22538388953a0b7ef35b3ec4c7476071edca781c9e1e1812279df"
 
 [[files]]
 file = "config/betterquesting/credits-reinforced-neon.txt"
@@ -454,7 +454,15 @@ hash = "37a221d1dc08b39d0528c185bf735c926ff4214403c931fd874c1700f11dfa65"
 
 [[files]]
 file = "config/betterquesting/saved_quests/ExpertQuests.json"
-hash = "5ab9eb127dd78d5a206a04c69576d3d90b62207a95e83e4a65489827d171dbb6"
+hash = "56e720479264450f7e235d956e99c6446e6484ceb99b5bcc430e8b354dabb290"
+
+[[files]]
+file = "config/betterquesting/saved_quests/ExpertQuestsDev.json"
+hash = "faed2fce3f0a503d7e14bdc7e1e75b42892989542e278c1db86452f0bb7b1ce3"
+
+[[files]]
+file = "config/betterquesting/saved_quests/NormalQuestsDev.json"
+hash = "194c6759b79168b95ae27afeb3123cdc27db217a3ea20853441105c3d29682ff"
 
 [[files]]
 file = "config/bookshelf.cfg"
@@ -1846,7 +1854,7 @@ hash = "50dcce31cf850209d5dfe4fca9234bb639dcd6b7133d7f022bf5303e8a679817"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "728edae69ab0bd4227df2ed054c1f4c22b57955201632d137462a5c1d6867d17"
+hash = "af006793dd2cab945335a44919155fae486c4eaae16075a517f6fd00ecf85063"
 
 [[files]]
 file = "config/openglider.cfg"
@@ -1918,7 +1926,7 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 
 [[files]]
 file = "config/randompatches.cfg"
-hash = "21b0f14358adaa2b5c4da2df53fefbedaf33e9aa20bfd409ca82a70d2537d60f"
+hash = "70754930b14e44a1203e3d24b953a2c2d3d5e03c0d6d30d59b814550066b0014"
 
 [[files]]
 file = "config/rangedpumps.cfg"
@@ -2086,7 +2094,7 @@ hash = "3e8d190e461e6c5e15791be1edd4a5ab6293173864e2e7fc60cc8589d2609491"
 
 [[files]]
 file = "config/ulv_covers.cfg"
-hash = "946936c64f57601716979b3de89aa3c4bc5da1e468dffc4633c145067e9e93d0"
+hash = "39c4fe3e697212cc08a4f656b3ad2e9a20a0112bc1bd8cf6c30320e0f4ada9f9"
 
 [[files]]
 file = "config/vanillafix.cfg"
@@ -2184,7 +2192,7 @@ metafile = true
 
 [[files]]
 file = "mods/bansoko.pw.toml"
-hash = "740eceeb01dbb75c36a8ab1a4669d7d5af6cd7bf029038139ea1b0876e712673"
+hash = "22235130ca2bfd0310678a4da6125d0e955670ebd609b06df6297383ae11755f"
 metafile = true
 
 [[files]]
@@ -2219,7 +2227,7 @@ metafile = true
 
 [[files]]
 file = "mods/bountiful.pw.toml"
-hash = "7161f1d14848639647fcc8d289fd8abe4a420ea0e3b8aa31dda58e871eeefcab"
+hash = "c81b0aa9494dabc1fcc7dd635cf009c4643226584c40e299829c6bdde2b41b47"
 metafile = true
 
 [[files]]
@@ -2384,7 +2392,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
-hash = "f955c183f6a8c8a695d6695b15a9ae87e67f320a23254e31b59e3f7eb39e012a"
+hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
 
 [[files]]
@@ -2489,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech-ce-unofficial.pw.toml"
-hash = "c2c397b480693a0de75c58727d1356d395d3766676927bd7c667e35a21248401"
+hash = "e555b49c0e214914665a88063e0d366f1043585c0299ce1b2480e54a3f023dc3"
 metafile = true
 
 [[files]]
@@ -2519,6 +2527,11 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogo-sorter.pw.toml"
+hash = "4078fe0422b357dfc281d38d7dd0b25df6185d4414784556775ab16b2c405039"
+metafile = true
+
+[[files]]
+file = "mods/inventory-bogosorter.pw.toml"
 hash = "4078fe0422b357dfc281d38d7dd0b25df6185d4414784556775ab16b2c405039"
 metafile = true
 
@@ -2664,7 +2677,7 @@ metafile = true
 
 [[files]]
 file = "mods/nae2.pw.toml"
-hash = "8979f4a436438e72d528a8b0be69392aa20e59daeaaab7936ac71d96c0a7cb88"
+hash = "a80d6acb85492f262a230ad09cfbe3119c69462796d039373e5a0d4bbd938390"
 metafile = true
 
 [[files]]
@@ -2684,7 +2697,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-mod.pw.toml"
-hash = "883b78d4bc47b5411f73592b33a68aab2af7f06169567dce3b4ca1c244573662"
+hash = "a083e49b63c511e1629866c1a95883352790cff996b4dc31ac1405574839ee31"
 metafile = true
 
 [[files]]
@@ -2784,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
+hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
@@ -3120,6 +3133,10 @@ hash = "7c6dc34993eefed9ceae4b9299de4ccf0a9e0db24d2f8b693830dcd77e0f8921"
 [[files]]
 file = "resources/contenttweaker/lang/en_us.lang"
 hash = "7d97b6b425891d662f0460b34e39909d2c612b7a2e5e87f171b80d353b66268d"
+
+[[files]]
+file = "resources/contenttweaker/lang/ru-ru.lang"
+hash = "3313fd55350c774dd699fbbc3c8d48d61f7e0744d2c942b8f56c425114e0fc07"
 
 [[files]]
 file = "resources/contenttweaker/lang/zh_cn.lang"
@@ -4183,7 +4200,11 @@ hash = "5de74f95a6a03af4e2b486f5431c255b610083cd4c238fbd73fdb7b285d6172b"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/dragonlairdata.png"
-hash = "5b97bb226d16846493ef444a9fd8f10c92ab10e43dd60de7c95f25310462a53c"
+hash = "a0b2417319b7fd8746456cd597ac8d9115307482dd559e5a626b1fb15ced9eac"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/dragonlairdata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/eightsmore.png"
@@ -4239,11 +4260,19 @@ hash = "40dcb5f1dc81fa6ca0d18a5cb0a993f38e7fc1638b6f8b4f3e5278855aee5e50"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/impossiblerealmdata.png"
-hash = "e7ff1453739209a1ba83f1d4d786fbd6d643dcb6c799283ba0298dd0ad469837"
+hash = "a7a7855013a362d1ea2bf99563776d2d845e5f28bf10be209930d3d8832a920f"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/impossiblerealmdata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/lairofthechaosguardiandata.png"
-hash = "2e972f53b84c729711b2bace959bd47615e85aa90db7729769691ad744bdcbfc"
+hash = "1b54e314a9266cc626eef2f23fcbcb51cc93e9d156a9a877c4b07391d7267ede"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/lairofthechaosguardiandata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/lapisarmorplate.png"
@@ -4439,7 +4468,11 @@ hash = "98e059b0af86c4b35fd6121efc0c92872e3573a0d80e3371b1a80ce24709823e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/stellarcreationdata.png"
-hash = "bd207d7d470f0f4b8ae97d7224d00b277a10a797d8a73c3a08738d60b93f2f10"
+hash = "2fa2541867017343c7e60b7f9acdfcce3b0ed102e920afcd6cb625fd9868ff49"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/stellarcreationdata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/stonewidget.png"
@@ -4675,7 +4708,11 @@ hash = "f63938ec084892c7336ab48622d48b0f4f8002bb292165d9b3f90d16d98b7f27"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/universecreationdata.png"
-hash = "c31a4fdace62170f3869e4255fa867be222fff37493c32141e263b5fd69dd7e5"
+hash = "f5595191c29a268f65d74214f55b084b320eaf61f1c5c14b1bf868075e245d3e"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/universecreationdata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/unpreparedspaceboots.png"
@@ -4699,7 +4736,11 @@ hash = "77414569a158a72e82c4ff97d57505d47aa8e9176544aadeda43fb365311da52"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/witherrealmdata.png"
-hash = "23de0ced37f5d03d56688e887e29a7f1ecf1ee648775de0a80e3d81e7b866ddf"
+hash = "8edd69ea35ebdfde820f76eb3f9286f95a52d6b267064e0aeece4fb9413b7956"
+
+[[files]]
+file = "resources/contenttweaker/textures/items/witherrealmdata.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
 
 [[files]]
 file = "resources/contenttweaker/textures/items/woodenwidget.png"
@@ -4835,83 +4876,83 @@ hash = "12291d25fd7d4f7ef969db7d2fc83addd54d8c9a0dcc235bb7b5960dc3298e57"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/besoiobiy_1.jpg"
-hash = "eaf08525fe0cff42985cca5fd0cbcc1bdb1aebd3b10d4c1327910086c620045a"
+hash = "0aa5cdd355e1eb67aa7549543f622fde4173b691e156aff8c693d92485f42573"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/besoiobiy_2.jpg"
-hash = "bf1be304977a7d34a0da9ffcbbce8bfb43d3fd2408a2b09849ffd7557d529f29"
+hash = "6cfb4ebf1373370fc93215c5f2609ff1bb70a8d378075df60e77890e6bd3b3eb"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/cactus_cool.jpg"
-hash = "9db634ae09675e74031df49ce8f522767d67931c8fda9343b9a7201e7d96fabf"
+hash = "05ef3357d4744af3dabb9cb56fa8ea001b4023203085f84416d1fafebd76a370"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/cobracreeper1.jpg"
-hash = "fcf6ee1bb58cecb85152f0c513c7d940b03fc2a8e1c400a7f982cbce9f15e8e6"
+hash = "b42736b03e361883b809c3c2567809c877fac2625d1163b937bd5dedf46580dc"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/darkarkangel.jpg"
-hash = "0dad75857676ba9fa92a9160fe68f7156f675e4d32abdbff2c758b44edb865c3"
+hash = "fab04fd321570f05e2c8cb0809498db0d8b24416021dd30409eeebd0aff8dcf6"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/ely_1.jpg"
-hash = "c681e51a143a9694b30aa681f4527ba148626d9073ff746992a0e232aa897d19"
+hash = "feabf63538f777895a13c6081d5b8f088a83f1086c9c9c7a011ed61bb3385fe3"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/ely_2.jpg"
-hash = "34140570cfa91dd358f91d0fd3c9d0b2701211bb0d61ffe3df9d496c26872258"
+hash = "aebd2bd6767f288639dfe78cbf76458f282ca6ea9739427688d8b6675d27e145"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/ely_3.jpg"
-hash = "6a33cee44e4d7eac26c682d0b2bf41a714c2e93c0ec9443528f76e2c5af665ea"
+hash = "b2503d9c31d2c705f3362183d45fc0522ba44d693613002cb695308350d3f5e7"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/emiuna.jpg"
-hash = "c608bbbe68489d530e80d575ccc9405ce185f07c446ea172dfecc69167102de0"
+hash = "e1b82be307fbd0b816a047d6335554296ffbc43fa8998de4384bdf763ff44910"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/extracoolcat_1.jpg"
-hash = "7e0f4f0fb6e4ef68de004f6ca4b7107b608d28a1383297205ad8d8204f7b3845"
+hash = "3c1db29c63b7c99877345f9c74423ec8faf9229b556df772a45d29c82634f5a4"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/extracoolcat_2.jpg"
-hash = "7f7c48564baff6373cb9bcce533eacba3c4eda0de05bd53bfc50f1bc65502d09"
+hash = "128b2bda7f7088b468ef2cdfc73c4da63ec4f7625963dad1f200cf3785357f3e"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/extracoolcat_3.jpg"
-hash = "b6861a1fd4f93a5afa69c73c24f73313707ad90292023cb5a01dee0ac1044b73"
+hash = "b0fe02bb41903ffda19c707cf8dc2d5c0bded4d50023bffbe3707a4c5e6bbc55"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/extracoolcat_4.jpg"
-hash = "397e2cc0f5498443ee5045d50a1af78c6d7e0fbcb920ee4190ffcc2c35a59f70"
+hash = "03c86ac7c583bd4ea67084cfbe76231118d9fb47c2184b8783e06023d4337137"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/gaboggamer.jpg"
-hash = "5013ff65b94403ae0fe729d9e632b4e76159d8f857aba4e1664c9437a4e8426b"
+hash = "0a99291e336100c92f6530dc9f3337f3fb9deb76082add06ce291f713037cc4e"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/itstheguywhoasked.jpg"
-hash = "ab20ee7c1ce786a7656f103d00dcb2d67cf34d3f580d67b265f4472b99989f71"
+hash = "ee14fa7a9fc370972d0763fb7edabca5ca4b0b309a19b264701f2ad78e920fa5"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/lyeo.jpg"
-hash = "ce1d437f8b8368946b36fd6e47ccd074489d070cd0705f2496662c2ffcde433f"
+hash = "5bdb0d5e9c07f719e94fb202e83871cc3b05d59ffdc7f99881fb2f93efb4b890"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/pgs_1.jpg"
-hash = "14bedf5aebd5071697808610993bbfe78e6c95c2f0b4c2e601795e017cf534a7"
+hash = "1c22e46ebe595e1f40fb10984c882055293debb45b569b34b979f95701c5ccfe"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/pgs_2.jpg"
-hash = "f5e274f4d6a35fc1c3dff8885cb49a5ab6ada6486314b670145025203a29cf67"
+hash = "8acf3276ddc1a808b87fd704f2d98ba78fb6fcb9114f5d4958272f7b4dd3dc3b"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/qr_est.jpg"
-hash = "8faaec2c2f63eb4ff642bd18002416584137c2ac2fe6b8e14c5cf1e76bf0069f"
+hash = "987703c263fa9616c714a1d0eab5c51d78d0a590870c9871e3b9ab835be78cc1"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/supasem.jpg"
-hash = "4b31d8d8f24dc03bea728cf050c11dc6134aa36bc1475cf703a375b935799bd6"
+hash = "03e7aa440cc6b1f7ba60c33e1faabc193532c9c580fb14f202a14e06bceeaf21"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/top.png"
@@ -4967,7 +5008,7 @@ hash = "17efacfd12264d1a41376fd3a4ba8fe9ccf20e78612f187fc45ce48307063d0d"
 
 [[files]]
 file = "resources/questbook/lang/en_us.lang"
-hash = "63553e038c64d88dc1ace41eb604a394d5a21f7c09ad2de7f7dd5223d14b7028"
+hash = "3c3242a611e4b61b38fd733bd19210e5c371adaf7558fdeb1ffa8d2b6e607302"
 
 [[files]]
 file = "resources/toolbelt/lang/en_us.lang"
@@ -5059,7 +5100,11 @@ hash = "15a664fab7a4eed794d5d522ba8b27f06aed37369f9ef4e759b811c6041ecb45"
 
 [[files]]
 file = "scripts/ModSpecific/AppliedEnergistics2.zs"
-hash = "4f7eb2035be6d044316d94022f1296cf8b2718cabe601ae6e9fffc8eb7b94166"
+hash = "aafc266feb277c89bb5089c562c0befe62979a949ff6225d1c7e333150367e12"
+
+[[files]]
+file = "scripts/ModSpecific/Chisel.zs"
+hash = "832242db1478fae66a27d7a60d1dde4cad29522f759073d502feeb464ef887ef"
 
 [[files]]
 file = "scripts/ModSpecific/CompactMachines.zs"
@@ -5143,7 +5188,7 @@ hash = "a3d901b540de9ba27761eaf4e8729c458cea5db5e9eecab3b62cd95bfde181c4"
 
 [[files]]
 file = "scripts/multiblock_dml.zs"
-hash = "ccfb1988242e2022d608fc81fb0a310c69b54f05b014bc2fa5b370b49aab62c8"
+hash = "6c5be9554d98af3a1ef06d2b1ebe59d704ecf3b48c2c3d6be817bbec8c46bae4"
 
 [[files]]
 file = "scripts/multiblocks_expert.zs"
