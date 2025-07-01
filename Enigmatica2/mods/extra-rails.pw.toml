@@ -1,0 +1,13 @@
+name = "Extra Rails"
+filename = "ExtraRails-1.12-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3138107d09de62c06e7cf15c06fe53bede03002b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2441517
+project-id = 247665

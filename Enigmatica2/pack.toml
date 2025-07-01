@@ -1,0 +1,13 @@
+name = "Enigmatica 2"
+author = "NillerMedDild"
+version = "1.79"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "424a5703b872d4675ce5ee398c038c77adab59e856c6046dd13feb164b561daf"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"

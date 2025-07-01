@@ -1,0 +1,13 @@
+name = "Grass Burner"
+filename = "grassburner-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f6739bcef2caac150e3670f51e0bc67d3101d35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2461314
+project-id = 273718

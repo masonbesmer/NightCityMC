@@ -1,0 +1,13 @@
+name = "No Night Vision Flashing"
+filename = "NoNVFlash-1.12.2-1.2.0.3-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c52f878f12898385cb61d3e192bf174697408d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2550651
+project-id = 291926
