@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "19595e1e20798beff2ffe038986433cdd70ceb5e0aabd94113c53cd9f0ccfe03"
+metafile = true
+
+[[files]]
+file = "mods/industrial-renewal.pw.toml"
+hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "307efe62b434f30f3d71f905620940656cf609da92fc76a594ae14eed965ad63"
+metafile = true
