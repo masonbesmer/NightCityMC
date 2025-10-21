@@ -1,0 +1,13 @@
+name = "JAOPCAAdditions"
+filename = "JAOPCAAdditions-1.12.2-2.2.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a478e62a9ec6d062220bff283070ea7f3a6d626"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2558969
+project-id = 275025

@@ -1,0 +1,13 @@
+name = "Ender Tweaker"
+filename = "EnderTweaker-1.12.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33aaef9819164f17e19795336b535f72f02e0321"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3131262
+project-id = 312195

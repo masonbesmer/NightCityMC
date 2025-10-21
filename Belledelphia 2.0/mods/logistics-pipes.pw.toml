@@ -1,0 +1,13 @@
+name = "Logistics Pipes"
+filename = "logisticspipes-0.10.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c90b9c931217772acbdca1327a595ee0074b4ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3343840
+project-id = 232838

@@ -1,0 +1,13 @@
+name = "ModDirector"
+filename = "mod-director-launchwrapper-1.4-SNAPSHOT-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c5d151c20a92249d314acb470beac4165bb9c7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2980239
+project-id = 367103

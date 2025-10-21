@@ -1,0 +1,13 @@
+name = "PackagedAvaritia"
+filename = "PackagedAvaritia-1.12.2-1.0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dcd06efe14693fcfa770e03af2a7f81a3b7b96b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3214384
+project-id = 308383

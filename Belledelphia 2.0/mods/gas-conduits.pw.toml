@@ -1,0 +1,13 @@
+name = "Gas Conduits"
+filename = "GasConduits-1.12.2-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa7a5235c2d4c525e8e9f6fc4f2c544e2fc84e02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3060489
+project-id = 309756

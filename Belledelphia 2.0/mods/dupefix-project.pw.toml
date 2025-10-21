@@ -1,0 +1,13 @@
+name = "DupeFix Project"
+filename = "DupeFixProject-1.12.2-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c85eff9eddaceb894db41098f55100ea4c7dadc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3270075
+project-id = 356349

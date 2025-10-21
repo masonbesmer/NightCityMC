@@ -1,0 +1,13 @@
+name = "A Dark Mode"
+filename = "Dark Mode.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14cc0fec5e0b5af6896f34617493aaa266fc56ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2892345
+project-id = 365197

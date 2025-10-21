@@ -1,0 +1,13 @@
+name = "Redstone Repository Revolved"
+filename = "RedstoneRepository-1.12.2-1.4.0-dev-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac18d6ab37878eb77457285288e0944d99047dcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2695517
+project-id = 300750

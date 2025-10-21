@@ -1,0 +1,13 @@
+name = "Open Modular Turrets"
+filename = "openmodularturrets-1.12.2-3.2.0-379.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b736140a8dd8982e6aa63d7c1734824129e5af4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3092964
+project-id = 224663

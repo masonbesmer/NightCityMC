@@ -1,0 +1,13 @@
+name = "Debark"
+filename = "Debark-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce110cb4abf67482da5392036634c75658013922"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2843391
+project-id = 346073

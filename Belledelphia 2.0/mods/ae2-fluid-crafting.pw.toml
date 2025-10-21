@@ -1,0 +1,13 @@
+name = "AE2 Fluid Crafting"
+filename = "ae2fc-1.12.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31e409a236fdb3b705be2fb758ef121e2836385b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3254163
+project-id = 387275

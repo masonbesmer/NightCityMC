@@ -1,13 +1,12 @@
-name = "Belledelphia 2.0"
-author = "Mason Besmer"
-version = "1.0.0"
+name = "GreedyCraft"
+version = "1.35.2.118.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9be01a3c0dfbae0d40df79bdca12a753e086aaa2e142bbfdf81f3dde2968004"
+hash = "514abe9872a42688815bae01100e8fb2c39e468d8b9f2ac7297dd17320f0007d"
 
 [versions]
-forge = "14.23.5.2860"
+forge = "14.23.5.2855"
 minecraft = "1.12.2"

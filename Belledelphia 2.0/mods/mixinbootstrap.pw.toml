@@ -1,0 +1,13 @@
+name = "MixinBootstrap"
+filename = "MixinBootstrap-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7d74a7f969111567358ff905efe69144b7ca55d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3076610
+project-id = 357178

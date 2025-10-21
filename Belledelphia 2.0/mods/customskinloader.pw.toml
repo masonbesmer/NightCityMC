@@ -1,0 +1,13 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_Forge-14.13-SNAPSHOT-278.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9baf0e085dc41f5428fd81bd21390e37fd6c5bc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3346339
+project-id = 286924

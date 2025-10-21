@@ -1,0 +1,13 @@
+name = "PackagedAuto"
+filename = "PackagedAuto-1.12.2-1.0.5.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16406cbb3e27e702f35f2a1d7f6dab442b7d95e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3214216
+project-id = 308380
